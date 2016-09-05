@@ -1,0 +1,32 @@
+author: Hellkipz
+license: CC0 (Public Domain)
+source: http://opengameart.org/content/skulli-sprite-sheets
+
+One character from a game I was working on, the game has since been scrapped so might as well share it here. Also remember that this is CC0 so please keep it that way if you decide to modify.
+
+No need to let me know if you decide to use this in one of your projects but if you do feel the need of doing so just leave a comment in this page so I know that you liked it :D
+
+Sprites go as follow:
+
+Skulli Sprite Sheet 1
+
+  frame 1-6 Iddle
+
+  frame 7-12  basic attack
+
+Skulli Sprite Sheet 2
+
+  frame 1-3 Power start
+
+  frame 4-5 Power Loop
+
+  frame 6 Power exit
+
+  frame 7- 12 Eat
+
+Skulli Sprite Sheet 3
+
+  frame 1-6 Celebrate
+
+  frame 7-12 Mourne 
+

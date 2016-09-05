@@ -1,0 +1,20 @@
+Author: Anders Svensson 'Cedfelt' (http://opengameart.org/users/cedfelt)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/tiny-space-explorer
+
+A tiny space explorer made with the DB16 palette. If it comes to use in some way it would be cool to see the result. 
+
+Contains the following animations:
+
+1: Idle
+
+2-5: Walk / Run
+
+6-8: Fly (Jetpack)
+
+9: Fall
+
+10-12: Dash
+
+13-19: Death
+
