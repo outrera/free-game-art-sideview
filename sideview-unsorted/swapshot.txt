@@ -1,0 +1,9 @@
+Authors: David 'Gelatinousfox'
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/swapshot-unused-tiles
+        http://opengameart.org/content/swapshot-animation-tiles-set-1
+        http://opengameart.org/content/swapshot-rain-animations
+
+I dont think I'll reuse my old project files .. so here...
+
+This was for a 2d platformer I never finished.

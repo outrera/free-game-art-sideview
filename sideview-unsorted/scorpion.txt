@@ -1,0 +1,8 @@
+Author: Diane Mueller 'madameberry'
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/scorpy-scorp-side-scroller-enemy
+
+As part of my Patreon monthly public domain art.  Every month, thanks to my Patrons, I release an art asset into the Public Domain.  Please consider supporting my work by becoming my Patron! https://www.patreon.com/madameberry
+
+Scorpion enemy attack and walk animations for a side-scrolling video game.
+Upload includes .gifs and .png spritesheets 
