@@ -3,6 +3,12 @@ license: CC0 (Public Domain)
 origin: http://opengameart.org/content/old-frogatto-tiles-pt2
         http://opengameart.org/content/old-frogatto-clouds
         http://opengameart.org/content/old-frogatto-tile-art
+        http://opengameart.org/content/old-frogatto-houses
+        http://opengameart.org/content/old-frogatto-parallax-layers
+        http://opengameart.org/content/old-frogatto-clouds-2
+        http://opengameart.org/content/frogatto-friends-npc-pack
+        http://opengameart.org/content/old-frogatto-tile-art-3
+        http://opengameart.org/content/old-frogatto-tile-art-2
 
 while the game is not open source, these assets were released by Jetrel into Public Domain
 
