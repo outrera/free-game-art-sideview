@@ -9,6 +9,7 @@ origin: http://opengameart.org/content/old-frogatto-tiles-pt2
         http://opengameart.org/content/frogatto-friends-npc-pack
         http://opengameart.org/content/old-frogatto-tile-art-3
         http://opengameart.org/content/old-frogatto-tile-art-2
+        http://opengameart.org/content/giant-smw-style-button
 
 while the game is not open source, these assets were released by Jetrel into Public Domain
 
