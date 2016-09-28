@@ -1,0 +1,10 @@
+Author: Gabe Hess 'GabeChHe' (https://gabech.itch.io/game-objects-pack)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/110-game-objects
+
+110 objects for your game.
+
+The full pack can be found here https://gabech.itch.io/game-objects-pack
+
+Copyright/Attribution Notice: 
+If used commercially. give credit to Gabe Hess and leave a link to https://gabech.itch.io/game-objects-pack.
