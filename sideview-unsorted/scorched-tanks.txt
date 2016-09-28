@@ -1,0 +1,12 @@
+Author: mishonis
+License: CC0 (Public Domain)
+Source: http://opengameart.org/content/tileset-and-assets-for-a-scorched-earth-type-game
+
+These are some graphics I made for a game I never published.
+
+The tank turret is a separate graphic, so it can be rotated.
+
+The cloud graphic is also separate from the background.
+
+Feel free to use however you like. 
+ 
