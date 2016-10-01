@@ -1,0 +1,7 @@
+Author: Aeitia (http://opengameart.org/users/aeitia)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/pixel-art-cat-doing-some-stuff
+
+A cat-like character. Trying to develop a new art style (for pixelart) that ain't quite as crappy as the one I've used before.
+
+Animations for walking, jumping, shooting, swiping, and death.
