@@ -1,0 +1,16 @@
+Author: Diego del Solar 'Shackhal'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/multi-platformer-tileset-grassland-old-version
+
+I have various tilesets in a single pack called Multi Platformer Tileset, using PICO-8 palette for it. And currently there are more tilesets incoming in the future. Some of them are still in paper.
+
+I currently revamped the first environment, Grassland. As leaving the old one to rust fells bad, I decided to give the old one for free, so here it is.
+
+It have a terrain tileset, parallax scrolling backgrounds and additional assets (with a few animations). All this pack have 106 assets. Of course, in .png format.
+
+In case you are interested for the new one, fell free to check more here: https://shackhal.itch.io/multi-platformer-tileset
+
+Fell free to ask any questions or requests :D
+
+Copyright/Attribution Notice: 
+Credit to Diego del Solar or Shackhal, but is not necessary. Although I will appreciate it a lot.

@@ -1,0 +1,39 @@
+Authors: thekingphoenix (http://www.patreon.com/thekingphoenix)
+License: CC0 (Public Domain)
+Origin: https://opengameart.org/content/tileset-platform-forest
+
+Content:
+
+4 backgrounds.
+
+4 trees.
+
+8 shrubs.
+
+10 rocks.
+
+1 sign.
+
+1 broken sign.
+
+4 types of leaves for tree.
+
+1 cut log 
+
+1 fallen log.
+
+1 apple icon
+
+1 money icon 
+
+1 heart icon.
+
+1 cave.
+
+Earth to form surface and mountains.
+
+Size: 32x32pixels
+
+ 
+
+SUPPORT ME IN MY PATREON! THANKS!
