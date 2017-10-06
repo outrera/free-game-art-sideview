@@ -1,0 +1,16 @@
+Author: Luis Zuno (ansimuz.com)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/hell-hound-character
+
+Set of 4 different animations of a Hell Hound at 40x25 pixels approx. Perfect for a Castlevania like game. 
+
+ ANIMATIONS:
+    Idle
+    Walking
+    Running
+    Jumping
+
+Enjoy and if you want more like these visit my patreon page: https://www.patreon.com/ansimuz Also you can watch the Work process of this asset in this time lapse video 
+
+Copyright/Attribution Notice: 
+Credit to ansimuz.com is required

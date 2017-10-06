@@ -1,0 +1,17 @@
+author: Nick "Kelvin Shadewing" Kovacs (http://www.kelvinshadewing.net)
+license: CC-BY-SA 4.0
+origin: https://opengameart.org/content/midi-waffle
+
+From my open source game universe, Kyrodian Legends.
+
+Midi is a squirrel (canonically referred to as a Kholu) who has an affinity for bomb magic. His bombs come in the form of acorns, and can explode in flames, lightning, or ice. He also has moderate close-combat skills, but mainly depends on his use of explosives. He's also immune to his own explosions, but can still be hurt by others. If he jumps while standing on his own landmine, it'll explode and let him jump higher.
+
+The transphere is functionally similar to a morphball, but its rolling animation is not played while standing still, and it is susceptible to slopes, even in 2D. There is currently no spiderball variant, but the springball function is standard with it. He can use his bombs to boost, which when mixed with the ball's own jump, lets him do long jumps.
+
+Midi's personality is very similar to Rainbow Dash from MLP or Genki from Monster Rancher. He's very brash and action-oriented, but he has a cuddly side, too.
+
+I doubt anyone will be able to make any "lore friendly" content with this, given that Kyrodian Legends is still very young, but I figured I'd release this now since he's already complete. If you make any more poses, let me know, and I'll add them to the sheet and credit you.
+
+If you'd like to support development of these characters, please consider supporting me.
+Copyright/Attribution Notice: 
+Please note that this ONLY applies to Kyrodian Legends-specific content. If, for example, you make a game with Midi in it, you're only required to open-source the assets of Midi (artwork, sprites, voice clips, etc.), while the rest of your project may remain under any other license you choose. In the case of still artwork, KL content should be put on its own layer and exported separately, or you must allow people to trace over it to extract it themselves, while the rest of the image remains your own. For attribution, please include a link to kyrodianlegends.com.
