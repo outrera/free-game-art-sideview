@@ -1,0 +1,16 @@
+Authors: Ian Hitt 'Icarus' (http://aviusicarus.deviantart.com/gallery/)
+License: CC-BY-SA
+Origin: https://opengameart.org/content/scrapped-projects
+
+FROM LEFT TO RIGHT:
+32x32 basic mineshaft tiles
+
+3D model purple core (Preview: http://aviusicarus.deviantart.com/art/Purple-Core-464507786 )
+
+64x64/32x32 alien tilesheet w/color palette
+
+32x32 grass/cliffs
+
+32x32 varies sprite bases
+
+16x16 mini icons

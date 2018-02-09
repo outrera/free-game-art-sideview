@@ -1,0 +1,7 @@
+Author: takeshi_amano (https://opengameart.org/users/takeshiamano)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/flame-creature
+
+Sprites made for a game jam that failed hard.
+
+When running the burning animation, you should loop the last 4 frames.

@@ -1,0 +1,12 @@
+Author: Chad Wolfe 'The Chayed - KIIRA' (http://kiiragames.weebly.com/)
+License: OGA-BY 3.0
+Source: https://opengameart.org/content/500-tileset-mega-metroidvania-forest-zone-set
+
+A relatively large tileset I made for Byte Sized Heroes. For whatever reason, the original upload for it had been taken down. 
+
+The tileset consists of over 500 16x16 tiles, all in the theme of a forest. More will be added later, when the necessity for changes occurs in BSH. Additional BSH sets will be added later, and will be grouped in themes. BG Tilesets and paralax backgrounds will also be uploaded later.
+
+The style for this set is meant to evoke feelings of Megaman and Super Metroid, as well as include parts to be used with vehicles.
+
+Copyright/Attribution Notice: 
+Not required, please share your projects here though.

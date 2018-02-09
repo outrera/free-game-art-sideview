@@ -1,0 +1,45 @@
+Author: Jason Perry 'finalbossblues' (https://finalbossblues.itch.io/)
+License: CC-BY 4.0
+Origin: https://finalbossblues.itch.io/pixel-platformer-pack
+
+This pack includes a fully animated platformer hero as well as an enemy and some tiles/objects. Perfect for for game jams or prototype development.
+
+These were for an old unreleased project, so I am releasing them for free. Have fun!
+
+Here are the individual files that you'll find in the zip file:
+
+Player Sprite Animations:
+
+    Stand
+    Run
+    Walk
+    Jump
+    Spinjump
+    Fall
+    Pivot
+    Bonk
+    Up
+    Down
+    Push
+    Wall Slide
+
+Enemy Animations:
+
+    Walk
+    Die
+
+Tiles:
+
+    3 Block Tiles
+    Floating Block
+    Crumbling Block (animated)
+    Sloped Block
+    3 Foliage Tiles (sides and center)
+    Spikes
+
+Objects/Collectibles:
+
+    Key
+    Food
+
+Enjoy!

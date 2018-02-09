@@ -1,0 +1,5 @@
+Author: Estúdio Vaca Roxa 'bakudas' (https://bakudas.itch.io/)
+License: CC-BY 4.0
+Origin: https://bakudas.itch.io/generic-platformer-pack
+
+A downloadable asset pack for Windows, macOS, and Linux

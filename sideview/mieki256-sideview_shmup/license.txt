@@ -1,0 +1,11 @@
+Author: mieki256 (http://blawat2015.no-ip.com/~mieki256/ https://soundcloud.com/mieki256)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/stg-object-image
+        https://opengameart.org/content/side-scroll-stg-bg-tile-map
+
+Side scroll shooting game object image.
+    player object
+    enemy object
+    boss object
+    effect
+    logo
