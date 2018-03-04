@@ -1,0 +1,7 @@
+author: Umz
+license: Public Domain (CC0)
+source: https://opengameart.org/content/animated-pixel-slug
+
+Been struggling to find a good array of insects, invertebrates, or any other crawly creatures for Killer Ant Empire (play it when you can, thanks), so having to create the needed creatures.
+
+They're not the best, and hopefully not the worst, but should come in useful to anyone that needs it. Only 4 frames for movement, nothing else on this.
