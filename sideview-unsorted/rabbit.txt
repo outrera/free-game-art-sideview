@@ -1,0 +1,14 @@
+Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/animated-rabbit-with-a-hat-in-seven-actions
+
+This image contains several animations of a rabbit wearing a hat. The rabbit is idle, running, jumping, falling, hurt, digging, eating a carrot.
+
+I suggest to render the animation half its size, as we did in Plee the Bear.
+
+The animation of the dust should be played over the rabbit while it digs. Then make the rabbit disappear and play the end of the animation of the dust. You may want to merge these animations and regenerate them using Pack My Sprites.
+
+The archive contains the image, the original GIMP image and the files required to recreate the image.
+
+Attribution Instructions: 
+Attribution should be done like this: © 2005-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>

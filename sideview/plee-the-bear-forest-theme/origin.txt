@@ -1,0 +1,14 @@
+Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/forest-themed-sprites
+
+These images contain a set of sprites related to a forest theme. They were used to create the levels of Plee the Bear.
+
+The sprite sheets contains a tree, some leaves for the tree, three beautiful large flowers, seamless sprites for the grounds, walls, slopes and ceilings. The is also some extra grass to apply some variations to the grounds.
+
+The archive contains the sprite sheets, the original GIMP image and the files required to recreate the sprite sheets.
+
+Donations are welcome via PayPal: julien_jorge@yahoo.fr
+
+Copyright/Attribution Notice: 
+Attribution should be done like this: © 2012-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>

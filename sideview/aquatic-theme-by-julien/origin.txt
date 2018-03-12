@@ -1,0 +1,12 @@
+Author: Julien Jorge <julien.jorge@stuff-o-matic.com>
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/aquatic-theme
+
+This image contains a set of sprites related to an aquatic theme. They were used in some levels of Andy's Super Great Park.
+
+The sprite sheets contains some dolphins, killer whales, a whale, a shark, an octopus, a wave, a surfer, some palms and a boat wreck. There is also some decorative panels.
+
+The archive contains the sprite sheets, the original GIMP image and the files required to recreate the sprite sheets.
+
+Attribution Instructions: 
+Attribution should be done like this: © 2012-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>
