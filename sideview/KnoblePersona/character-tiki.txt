@@ -1,0 +1,27 @@
+Author: KnoblePersona
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/tiki-sprite-32x32
+
+00. Stand
+
+01. Air attack side
+
+02. Down attack(Like Duck Tales :D)
+
+03. Jump
+
+04. Fall
+
+05. Glide
+
+06-11. Walk
+
+12-17. Run
+
+18-23. Attack(Why is he swingin up? We don't ask questions here...)
+
+24-28. Crawl
+
+29. Hide
+
+I did this a long time ago, but updated the colors. It's imspired by the Pygmy Staff in Terraria.
