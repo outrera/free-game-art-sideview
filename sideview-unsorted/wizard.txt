@@ -1,0 +1,5 @@
+Author: keeboii
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/wizzard-animation
+
+A spritesheet for animating a wizzard that casts a spell and then dissapears

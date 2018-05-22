@@ -1,0 +1,23 @@
+Author: aamatniekss (https://aamatniekss.itch.io/)
+License: CC-BY 4.0
+Origin: https://aamatniekss.itch.io/free-pixelart-platformer-tileset
+
+Free platformer tileset for your game!
+
+
+It includes a 16x16px tileset, with grass you can put on top, a bridge, spikes and 2 types of trees. Also included is a simple 4 layer parallax background.
+
+Full Details:
+
+    Rocks Tileset
+    Background Rocks Tileset
+    Grass tiles to put on top of the rocks
+    Horizontally Tileable wooden bridge
+    Horizontally Tileable wooden fence
+    Horizontally tileable bushes
+    Spikes
+    4 layer parallax background
+
+NOTE: This tileset can be used in free and commercial projects. You may not redistribute it.
+
+Follow me on Twitter for updates on more Asset Packs - https://twitter.com/Namatnieks

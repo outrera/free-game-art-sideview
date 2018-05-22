@@ -1,0 +1,11 @@
+Author: Brull.Alex (https://brullalex.itch.io/)
+License: Free
+Origin: https://brullalex.itch.io/the-one-spell-art-asset
+
+All the art assets from our little game The One Spell (available for free: https://brullalex.itch.io/the-one-spell ) is now available for free !
+
+There are two packs : 
+
+-  The Art Assets pack with plants, UI elements, etc (.PNG format)
+
+- The Character pack with PNG of all the different parts of the character and all the animations done with DragonBones (Open source software) with all the files to use it for your game.

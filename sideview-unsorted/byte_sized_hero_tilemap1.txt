@@ -1,0 +1,8 @@
+author: Chad Wolfe 'The Chayed'
+license: OGA-BY 3.0
+source: https://opengameart.org/content/byte-sized-heros-free-tilemap-pack-1
+
+The free version of a tilemap pack I'm creating for Byte Sized Heroes. 
+
+Copyright/Attribution Notice: 
+The Chayed

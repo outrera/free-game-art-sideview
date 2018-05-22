@@ -1,0 +1,11 @@
+Author: Crisisworks
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/asian-mountain-forest-bg
+
+A scrolling BG I made for my game, "Spirit of the Wind". Studied some Japanese paintings and countryside photos to make this. Scrolls horizontally.
+
+Link to game: https://evilartbunny.itch.io/spirit-of-the-wind
+
+If you do use it, do give my game a shout out!
+
+(Will be posting the trees and tilesets soon)

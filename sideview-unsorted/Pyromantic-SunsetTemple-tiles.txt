@@ -1,0 +1,8 @@
+Author: Pyromantic (http://pyromantic-arts.tumblr.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/sunset-temple-tiles
+
+A small set of 64 x 64 pixel art tiles, made for side scrollers/platoform games, and a parallax background. 
+
+Copyright/Attribution Notice: 
+Credit: Pyromantic, or Pyromantic Arts Non-Commercial: Free Commercial: Still free. Repost: Reposted from my Tumblr. Edits: Sure! Edits are allowed.
