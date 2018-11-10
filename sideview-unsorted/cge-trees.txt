@@ -1,0 +1,10 @@
+Author: Paweł Wojciechowicz (Cat-astrophe Games)
+License: GPL2
+Origin: https://opengameart.org/content/cge-trees-in-spine
+
+Simple animated trees in Spine JSON format.
+
+You can open it e.g. in Castle Game Engine ( https://castle-engine.io/ ) that supports Spine. You can quickly test it by opening in our model viewer, view3dscene: https://castle-engine.io/view3dscene.php .
+
+Copyright/Attribution Notice: 
+By Paweł Wojciechowicz (Cat-astrophe Games, https://cat-astrophe-games.com/ ). 

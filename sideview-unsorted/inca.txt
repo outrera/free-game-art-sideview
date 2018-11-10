@@ -1,0 +1,17 @@
+Author: Davit Masia 'Matriax' (kronbits.itch.io)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/inca-tileset
+
+Free game assets with Inca theme made in pixelart.
+
+Around 100 uniques, 300 total with the color variants for background purposes. 32x32, 32x16, 16x16, 16x8 and 8x8 tiles, ordered from bigger to small ones.
+
+Used Pixatool for the color variants.
+
+License
+
+Assets are public domain. This means you can use it for your personal and commercial games. No credit needed, but if you do, please, let me know via twitter at @DavitMasia , so i can do some RT ;) .
+
+ ---
+
+You can support my free game assets on https://kronbits.itch.io/ .

@@ -1,0 +1,16 @@
+Author: chipmunk
+License: OGA-BY 3.0
+Origin: https://opengameart.org/content/castle-platformer-assets
+
+A set of tiles-sprites and a piece of "Tiled" map for a project that was cancelled.  i thought it's better to share here than possibly lost forever.
+
+Maybe it has some purpose to someone in the end.
+
+ 
+
+Inspired by Knight n' grail-Shovel Knight-Ghosts n' Goblins. 16 colors.
+
+Map and tiles.png must be in the same folder.
+
+Copyright/Attribution Notice: 
+Credit me if you use it.
