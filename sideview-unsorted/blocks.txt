@@ -1,0 +1,15 @@
+author: tamashihoshi
+license: CC-BY 3.0
+source: https://opengameart.org/content/jump-and-run-tileset-24x24
+
+Some Blocks you can use in whatever you want to. Probably a jump and run or something similar to minecraft.
+
+These tiles will always look like blocks, so if you put them next to each other, they will not "break the grid" or anything.
+
+If you miss some sort of tile, let me know that, I'll add it.
+
+If you miss a tile that can be achieved by changing the colors, I will probably not add it... but feel free to tell me about it anyway.
+
+Oh by the way: That guy in the preview pic and the clouds are not included. I just threw them in for a "that's how it can be" feeling. That's also why they look .... "unpolished".
+
+If I've done something wrong, please let me know, this is my first submission on OGA.

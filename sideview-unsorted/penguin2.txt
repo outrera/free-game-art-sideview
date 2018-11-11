@@ -1,0 +1,10 @@
+author: tamashihoshi
+license: CC-BY 3.0
+source: https://opengameart.org/content/penguin-for-loderunner
+
+
+This is a Penguin with a walking, standing, climbing, falling and digging animation. This spritesheet could be used in a Loderunner-style game.
+
+If you feel like doing an open-source loderunner-like and want good ol' Tux to be part of it, use this spritesheet.
+
+This spritesheet will be expanded in the future, if I'm not too lazy :)

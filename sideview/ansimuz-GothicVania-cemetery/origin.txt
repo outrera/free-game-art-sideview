@@ -1,0 +1,34 @@
+Author: Luis Zuno 'ansimuz' (nsimuz.com)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/gothicvania-cemetery-pack
+
+GothicVania Cemetery is a complete Game Art Assets Pack to build a castlevania/Ghouls & Ghosts like graveyard  scene.  All assets are made with beautiful crispy pixel art.  
+
+Play online demo
+
+Pack Includes
+
+
+3 Seamless Loopable Backgrounds
+
+10 objects to decorate the level
+
+Tileset at 16x16 pixels each cell
+
+Props Included:
+
+Player Character fully animated with 6 animations: 
+
+hero-attack, hero-crouch, hero-hurt, hero-idle, hero-jump, hero-run
+
+3 different fully animated enemies and Death Animation
+
+Also this Pack includes Code for a playable demo made with the Phaser Engine
+
+Demo Music by Pascal Belisle https://soundcloud.com/pascalbelisle 
+
+Royalty free Sound Effects made with http://www.bfxr.net/
+
+Files are ready to use in transparent PNGs but I also include the PSD files and some gif animations. Sprites and spritesheets are included too.
+Copyright/Attribution Notice: 
+by ansimuz.com
