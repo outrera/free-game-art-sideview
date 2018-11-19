@@ -1,0 +1,19 @@
+author: Omni_Theorem
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/2d-sprite-shadow-alien-t-rex-monster-imagesanimationsscmlpsd
+
+Greetings everyone,
+
+This is a shadow, Alien, T-Rex looking thing I couldn't manage to fit into my project so I thought I'd share it. It's dimensions are about 0.250x0.250 in. I included all the projects and images files I have regarding this sprite. Being I'm not using it, the animations aren't "finished". Only one direction as well.
+
+Nonetheless, I've included the photoshop file, which contains all the indivudal body parts and head alterations (Happy/Angry). I've also included the Spriter project file, which I used to make walk and run animations. 
+
+.psd = Photoshop (I think I used v5, saved in compatible.)
+
+.scml = Spriter (Spriter is really finnacky with it project and file locations. I'd suggest leaving the image files in the orginial "en_str_mother folder".)
+
+             If you end up using it, let me know. Glad to see what you made of it.
+
+                       Cheers! <3
+
+                            Omni
