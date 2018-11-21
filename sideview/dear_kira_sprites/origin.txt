@@ -1,0 +1,12 @@
+Author: Dear Kira (https://dear-kira.itch.io/)
+License: Royalty Free
+Origin: https://dear-kira.itch.io/2d-platformer-sprites
+
+Hey guys !
+
+Here's the assets i used for my previous projects, i know some of us don't want to spend time drawing some stuff just to test scripts or to build tiny games. So you're free to use or edit it but a credit will be apreciated.
+
+First pack used here : https://dear-kira.itch.io/thief-road-to-assassin
+
+The second one here : https://dear-kira.itch.io/secret-of-colors
+

@@ -1,0 +1,11 @@
+author: MEITdev (https://www.youtube.com/channel/UCC_5ZJO-ZxJr_ii8hLuvj0A)
+license: Royalty Free
+source: https://meitdev.itch.io/crow
+
+Simple dark CROW animation
+
+ASEPRITE file for editing
+
+GIF file for preview
+
+Use ASEPRITE to edit the file to your liking
