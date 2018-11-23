@@ -1,0 +1,10 @@
+Author: Michael Dobekidis 'netgfx' (www.nightlycoding.com)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/raven-flying
+
+Raven flying spritesheet.
+
+If you want the whole project with idle frames, textured  and source files, you can find it here:
+
+Raven Sprite Pack 
+https://graphicriver.net/item/raven-sprite-pack/19762637
