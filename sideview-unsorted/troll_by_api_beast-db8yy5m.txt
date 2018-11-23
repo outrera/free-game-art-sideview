@@ -1,0 +1,5 @@
+author: Manuel Riecke 'API-Beast'
+license: CC-BY 3.0
+source: https://www.deviantart.com/api-beast/art/Troll-680195434
+
+Some animatening.
