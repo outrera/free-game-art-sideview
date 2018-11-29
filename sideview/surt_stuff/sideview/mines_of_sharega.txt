@@ -1,0 +1,7 @@
+Author: Carl Olsson 'surt'
+License: CC-BY 3.0, GPL3, GPL2
+Origin: https://opengameart.org/content/mines-of-sharega
+
+EGA tiles inspired by Apogee's Crystal Caves.
+
+Full mockup here, not included as contains level layout from Crystal Caves.

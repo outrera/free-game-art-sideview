@@ -1,0 +1,5 @@
+Author: Carl Olsson 'surt'
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/void-blaster
+
+Abandoned SMS-like stuff.
