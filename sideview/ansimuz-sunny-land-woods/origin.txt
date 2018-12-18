@@ -1,0 +1,22 @@
+Author: Luis Zuno 'ansimuz' (http://pixelgameart.org/)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/sunnyland-woods
+
+A complete Pixel Art Assets pack to build  a game platformer game out of the box.
+
+ 
+
+Features:
+
+    3 Layer parallax Background
+    A complete Tileset at 16x16 pixels Tiles to build your levels
+    6 Different Props/Items to decorate the scene
+    5 Different animations for your main character
+    3 different animated enemies
+    Playable demo code included made with Phaser
+
+Music by Pascal Belisle
+
+https://soundcloud.com/pascalbelisle
+Copyright/Attribution Notice: 
+by ansimuz
