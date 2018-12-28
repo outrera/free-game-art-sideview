@@ -1,0 +1,20 @@
+author: Bobjt (http://bobjt.com)
+license: CC-BY 3.0
+source: https://opengameart.org/content/angles-vs-demons-character-tilesets
+
+These are hand-drawn style art for in game characters of a side scrolling angels vs. demons game. There's a zip at the bottom that contains all files, if desired. 
+
+Image size info:
+
+The demon is within a 270 x 330 px frame on his sheet, and the angel is within a 256 x 256 square on her sheet (for all her tilesets). The origin of the frames is top-left on each image. 
+
+Animation info:
+
+- The demon has a walking animation only. 
+
+- The angel animations for standing, walking, running, jumping, swinging (sword), death. The swinging animation has two variations, one with sword and the other with no weapon. I'd planned to create no-weapon alternatives for the other sheets, but didn't get around to it.
+
+- If I figure out where the AnimeStudio paperdolls files are, I'll update this post to include those which would allow you to easily build those and other animations.
+
+Copyright/Attribution Notice: 
+Bobjt - http://bobjt.com

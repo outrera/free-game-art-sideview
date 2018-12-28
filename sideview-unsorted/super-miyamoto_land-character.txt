@@ -1,0 +1,13 @@
+Author: Lars Doucet & Sean Choate (http://www.leveluplabs.com)
+License: CC-BY 3.0
+Origin:https://opengameart.org/content/super-miyamoto
+
+This is from a loooong abandoned Super Mario Clone project of mine. Full spritesheet, includes. Stars Shigeru Miyamoto.
+
+-Big Miyamoto
+-Little Miyamoto
+-Magician Miyamoto (Fire Flower replacement)
+-Squirell Flight Suit Miyamoto (Racoon/Cape replacement)
+
+Attribution Instructions: 
+Please attribute to Lars Doucet & Sean Choate

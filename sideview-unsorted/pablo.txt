@@ -1,0 +1,5 @@
+Author: stellar (http://stefan-devai.github.io)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/pablo-sprites
+
+These are the sprites for a character in a game prototype I'm currently working on. You can try it here: http://stefan-devai.github.io/games/Pablo/

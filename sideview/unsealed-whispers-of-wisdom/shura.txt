@@ -1,0 +1,11 @@
+author: Laura 'Yamilian' Armendariz (http://unsealed.k3rnel.net/)
+license: CC-BY-SA
+origin: http://opengameart.org/content/unsealed-shura-battle-gfx
+
+These are Shura's Battle Grafics made for Unsealed: Whispers of Wisdom
+
+You can find an "Overworld" version of this sprite here.
+
+
+Attribution Instructions: 
+The author is Yamilian, a link to this entry and/or http://unsealed.k3rnel.net would be fine.

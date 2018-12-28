@@ -1,0 +1,9 @@
+Author: mutantleg (https://mutantleg.itch.io/guthood)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/guthood-tilesets
+
+All 4 tilesets from my game Guthood: https://mutantleg.itch.io/guthood
+
+Note: Includes some special tiles i'm not sure anyone will have use of
+
+(Credit is not required but very much appreciated indeed)

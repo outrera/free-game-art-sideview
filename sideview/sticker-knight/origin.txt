@@ -1,0 +1,15 @@
+Author: Ponywolf (http://www.ponywolf.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/sticker-knight-platformer
+
+This is an open-source prototype of a fantasy themed platformer game. It's not a complete game, but a jumping off point for folks that want to explore and learn modern game programming techniques in Lua with the Corona SDK.
+
+The game, source and graphics are free and free to modify under the Creative Commons CC0 licence.
+
+Play the protoype on itch.io...
+
+https://ponywolf.itch.io/sticker-knight
+
+...and download the source code at coronalabs.com
+
+https://marketplace.coronalabs.com/asset/sticker-knight-platformer

@@ -1,0 +1,10 @@
+Author: Lars Doucet, Sean Choate, and Megan Bednarz (http://www.leveluplabs.com)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/super-miyamoto-land-tilesets
+
+Some tilesets for the Super Miyamoto Land project, now long-abandoned.
+
+Sorry if the tiles aren't perfectly lined up, they should be easy enough to format to your liking.
+
+Attribution Instructions: 
+Please attribute to Lars Doucet, Sean Choate, and Megan Bednarz.

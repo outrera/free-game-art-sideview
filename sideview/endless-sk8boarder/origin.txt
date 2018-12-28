@@ -1,0 +1,9 @@
+Author: Ponywolf (http://www.ponywolf.com)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/endless-sk8boarder
+
+Preview
+
+Super excited to officially launch another free Corona Labs Template. This is just adump of the art... Mostly single color texture shapes, but when you pull it togteher it looks pretty good.
+
+Pre-compiled versions are on itch.io at this link... https://ponywolf.itch.io/endless-sk8boarder

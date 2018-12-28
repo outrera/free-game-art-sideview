@@ -1,0 +1,11 @@
+Author: Clarissa 'maruki' (https://lostalloy.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/aftertile-assets
+
+These are the assets I made for Aftertile, my first Ludum Dare submission.
+
+All the assets were done by me originally, except the dark green wall tiles and spikes, which were made using LittleSadNerd's gameboy tileset as a base.
+
+I'm releasing these assets as public domain, so feel free to use them as you wish. They are legally yours!! <3
+
+If let me know where you've used it, I'll be very happy! :D:D:D

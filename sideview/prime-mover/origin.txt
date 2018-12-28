@@ -1,0 +1,19 @@
+Author: helpcomputer (http://www.indiedb.com/members/helpcomputer0)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/zx-spectrum-style-sprites-for-prime-mover
+
+Here is all the images and sprites I created for the ZX Spectrum-style platformer Prime Mover. The attached zip file contains more than the previews, it also contains all the enemies, UI stuff, tiles etc. Hope you find it useful.
+
+You can also play the game at the below links if you like.
+
+https://helpcomputer.itch.io/prime-mover
+
+http://www.kongregate.com/games/helpcomputer0/prime-mover
+
+https://www.scirra.com/arcade/action-games/prime-mover-13268
+
+http://gamejolt.com/games/prime-mover/222577
+
+http://www.newgrounds.com/portal/view/686744
+
+Hope you enjoy it!

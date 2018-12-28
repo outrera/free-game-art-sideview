@@ -1,5 +1,5 @@
 Authors: Mike Miller (MoikMellah), Michele Bucelli (Buch), Agustin Balmer, LordNeo, Teirdalin Shadowfall
-License: Public Domain
+License: Public Domain (CC0)
 Origin: http://opengameart.org/users/moikmellah
         http://opengameart.org/users/balmer
         http://opengameart.org/content/golden-ui-bigger-than-ever-edition
@@ -11,5 +11,7 @@ Origin: http://opengameart.org/users/moikmellah
         http://opengameart.org/content/archer-static-64x64
         http://opengameart.org/content/orc-static-64x64
         http://opengameart.org/content/skeleton-static-64-x-64
+        https://opengameart.org/content/swordsman-static-64x64
+        https://opengameart.org/content/barbarian-static-64x64
 
 Includes characters, UI, tilesets and objects. Everything is public domain (CC0).

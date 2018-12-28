@@ -1,0 +1,10 @@
+Author: mutantleg (https://mutantleg.itch.io/guthood)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/tileset-cemetery-16x16
+
+A tileset for a cemetery themed level i never got around using in a finished/published game
+
+ (some of the tiles, e.g the sleeping worm/slug thing was meant to be animated) 
+
+Attribution Instructions: 
+No credit needed (but appreciated)
