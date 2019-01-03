@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/aquatic-crab-machine
+
+Indie-level styled robot crab. Feel free to use.

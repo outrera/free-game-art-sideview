@@ -1,0 +1,5 @@
+author: FiveAsOne
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/giant-crab-robot
+
+A giant robot crab. Useful for boss fights or whatever.

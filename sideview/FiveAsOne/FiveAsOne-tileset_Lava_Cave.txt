@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/lava-cave-tileset
+
+Custom Lava Cave area. I don't see alot of "fire" themed tilesets, so I figured I'd try a bit on one.

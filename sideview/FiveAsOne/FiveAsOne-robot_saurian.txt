@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/robot-saurian-guard-and-explosion-fx
+
+Just a robot dinosaur thing that can breath fire and shoot grenades. Free to use.

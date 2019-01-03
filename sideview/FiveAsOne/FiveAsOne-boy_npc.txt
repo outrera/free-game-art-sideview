@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/metroidvania-boy-npc
+
+There are not that many of this kind of sprite. Made looking at DS Castlevania for ideas.

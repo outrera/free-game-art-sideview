@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/item-frames-01
+
+Just an item that you could use for whatever you'd want in a game

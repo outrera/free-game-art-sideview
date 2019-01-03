@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/robot-squid
+
+Just a enemy more designed for underwater levels in games.

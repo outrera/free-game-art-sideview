@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/rpg-wizard-battle-frames
+
+Just a custom Wizard character useful for an RPG game. Feel free to use.

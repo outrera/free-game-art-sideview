@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/2d-sidescroller-skeletons
+
+If you need some skeletons for your platformer, then here you go :)

@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/forest-tiles-2
+
+Basic forest tilesets for a platformer or whatever one wants to use them for.

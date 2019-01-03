@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: OGA-BY 3.0
+Origin: https://opengameart.org/content/world-destroyer-hate
+
+This is a sprite sheet for a former fighting game that was eventually used in sprite animations.

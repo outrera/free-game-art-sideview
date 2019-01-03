@@ -1,0 +1,5 @@
+Author: FiveAsOne
+License: OGA-BY 3.0
+Origin: https://opengameart.org/content/man-sprite-weapon-test
+
+Man swinging axe weapon! 

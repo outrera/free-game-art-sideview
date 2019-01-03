@@ -1,0 +1,8 @@
+Author: FiveAsOne
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/stone-golem-castlevania-ds-style
+
+I will say that I did borrow a palette from the Stone Golem in the DS game to create my own. 
+However, other than that everything else is from scratch.
+
+Second File is testing the head movements as it follows the player character.
